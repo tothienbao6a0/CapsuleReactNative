@@ -1,8 +1,4 @@
 
-
-
-
-```markdown:README.md
 # CapsuleApp
 
 CapsuleApp is a React Native application for capturing and organizing daily moments into digital time capsules. Users can collect text entries, photos, and create themed capsules to preserve memories.
